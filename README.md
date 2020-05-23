@@ -1,4 +1,4 @@
-# apitesting
+# Api Testing
 
 ## This repo demonstrant: 
 - How to call the REST API methods in Python? 
